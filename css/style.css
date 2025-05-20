@@ -1,0 +1,58 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #6bc182;
+  color: #e10808;
+}
+
+
+h2 {
+  font-weight: 700;
+  color: #922929;
+}
+
+.table {
+  border: 1px solid #096ad2;
+  background-color: #f87d18;
+}
+
+.table th {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #447ab0;
+}
+
+
+.list-group-item {
+  background-color: #e9eaea;
+  border-color: #a122db;
+}
+
+
+.paid-stamp {
+  z-index: 10;
+  opacity: 0.9;
+  transform: rotate(-15deg);
+  font-size: 2.2rem;
+  padding: 12px 25px;
+  background-color: rgba(40, 167, 69, 0.15);
+  color: #28a745;
+  border: 3px solid #28a745;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+
+h5 {
+  color: #13171d;
+  font-weight: 700;
+}
+
+
+p {
+  color: #231209;
+}
